@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+@font-face{
+    font-family: "Facon";
+    src: url('../font/1.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+	margin: 0;
+    font-size: 32px;
+	font-family: 'Lobster', cursive;
+	background-color:#e1c4ff;
+}
+p{
+    color: 	#c30101;
+    color: #caf0c7;
+
+}
+h1{
+	font-family: 'Rubik Dirt', cursive;
+	color: #ff1111;
+	font-size: 60px;
+}
+span{
+    background-color: gold;
+    font-family: "Facon";
+}
+div{
+	width: 90%;
+	margin: auto;
+	background-color:#02006c;
+	padding: 50px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+
+}
+a{
+	text-decoration: none;
+	text-decoration: blue;
+	color: #baf2ef;
+	font-size: 20px;
+	display: block;
+	margin: 20px 0;
+}
+a:hover{
+	text-decoration: underline;
+	color: #caf0c7;
+	background-color: gold;	
+}
+li{
+	color: #c30101;
+	font-family: 1.ttf;
+	font-size: 18;
+}
+ol{
+	list-style-type:lower-greek;
+}
+
+
+		
+
+
