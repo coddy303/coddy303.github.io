@@ -1,0 +1,30 @@
+.img-box{
+	column-count: 4;
+	colum-gap: 0;
+	width: 80%;
+	max-width: 1400px;
+	margin: auto;
+}
+
+.image{
+	max-width: 100%;
+	display: block;
+}
+
+.img-wrapper{
+	display: block;
+	opacity: 0.6;
+	transition: 0.4s;
+	
+}
+
+.img-wrapper + .img-wrapper{
+	margin: 3px 0;
+}
+
+.h1{
+   display: block;
+   text-align: center;
+  
+}
+
